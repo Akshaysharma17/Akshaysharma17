@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Akshay Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="left">Data Science Engineer || Aspiring Data Scientist || Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaysharma17&label=Profile%20views&color=0e75b6&style=flat" alt="akshaysharma17" /> </p>
 
