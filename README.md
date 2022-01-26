@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaysharma17&label=Profile%20views&color=0e75b6&style=flat" alt="akshaysharma17" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaysharma17&no-bg=true" alt="akshaysharma17" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaysharma17&theme=darkhub&no-bg=true" alt="akshaysharma17" /></a> </p>
 
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Akshaysharma17/Akshaysharma17/blob/main/1_TlbU0F-waQf7_zOfhUNldQ.gif">
